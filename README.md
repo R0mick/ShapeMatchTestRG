@@ -13,7 +13,7 @@
 
 1. Склонируйте репозиторий:
 
-git clone https://github.com/yourusername/yourproject.git
+git clone https://github.com/R0mick/ShapeMatchTestRG.git
 
 2. Откройте проект в Unity 6
 
